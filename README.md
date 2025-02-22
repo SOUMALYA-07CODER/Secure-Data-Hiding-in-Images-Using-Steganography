@@ -22,6 +22,7 @@ This project is a **GUI-based Image Steganography tool** built using **Python** 
    - Select the encrypted image.
    - Enter the correct passcode.
    - The tool retrieves and displays the hidden message.
+   - Screenshot 2025-02-23 025355.png
 
 ## Technologies Used
 
