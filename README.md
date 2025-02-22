@@ -25,10 +25,13 @@ This project is a **GUI-based Image Steganography tool** built using **Python** 
 
 ## Technologies Used
 
-- **Python**
-- **Tkinter** (for GUI) 
-- **OpenCV (cv2)** (for image processing) 
-- **Hashlib** (for passcode security)
+- Programming Language: Python
+- GUI Library: Tkinter (for user-friendly interface)
+- Image Processing: OpenCV (cv2)
+- Encryption: SHA-256 hashing for password security
+- File Handling: PIL and OpenCV for image modifications
+- Data Encoding: Pixel manipulation technique
+
 
 ## Installation & Usage
 
